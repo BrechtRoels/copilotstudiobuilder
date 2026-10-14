@@ -1,0 +1,11 @@
+.env
+workspaces/
+backend/.venv/
+**/__pycache__/
+.pytest_cache/
+frontend/node_modules/
+frontend/dist/
+.DS_Store
+frontend/tsconfig.tsbuildinfo
+.claude/settings.local.json
+input.txt
